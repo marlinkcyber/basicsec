@@ -41,7 +41,7 @@ basicsec example.com --json
 ### Python Library Usage
 
 ```python
-from basicsec import EmailSecurityScanner
+from basicsec import BasicSecurityScanner
 
 # Initialize scanner
 scanner = EmailSecurityScanner()
