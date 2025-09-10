@@ -44,7 +44,7 @@ basicsec example.com --json
 from basicsec import BasicSecurityScanner
 
 # Initialize scanner
-scanner = EmailSecurityScanner()
+scanner = BasicSecurityScanner()
 
 # Passive scan
 result = scanner.passive_scan("example.com")
