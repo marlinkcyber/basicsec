@@ -8,7 +8,7 @@ Provides tools to check domain configurations for common security issues.
 from .scanner import BasicSecurityScanner
 from .exceptions import DomainNotFoundError, SecurityScanError
 
-__version__ = "1.0.0"
+__version__ = "1.0.1"
 __author__ = "Vlatko Kosturjak"
 __email__ = "vlatko.kosturjak@marlink.com"
 

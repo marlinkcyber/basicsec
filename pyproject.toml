@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "basicsec"
-version = "1.0.0"
+version = "1.0.1"
 description = "A Python library for basic and mostly passive security scanning like DNS and e-mail"
 readme = "README.md"
 license = {text = "MIT"}

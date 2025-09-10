@@ -9,7 +9,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="basicsec",
-    version="1.0.0",
+    version="1.0.1",
     author="Vlatko Kosturjak",
     author_email="vlatko.kosturjak@marlink.com",
     description="A Python library for basic and mostly passive security scanning like DNS and e-mail",
